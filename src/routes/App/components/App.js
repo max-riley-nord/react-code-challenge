@@ -7,7 +7,7 @@ function App() {
     <div className="app">
       <div className="level">
         <div>
-          <h1 className="title">Dark Mode Coding!</h1>
+          <h1 className="title">Dark Mode Code!</h1>
         </div>
 
         {/* --The button that should toggle dark mode-- */}
